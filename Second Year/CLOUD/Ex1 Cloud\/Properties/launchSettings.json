@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CloudServicesOefening": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7060",
+      "launchBrowser": false
+    }
+  }
+}

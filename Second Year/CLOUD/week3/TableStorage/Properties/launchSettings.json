@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "oef2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7013",
+      "launchBrowser": false
+    }
+  }
+}

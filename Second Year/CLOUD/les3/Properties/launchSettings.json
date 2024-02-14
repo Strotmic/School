@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "les3Cloud": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7014",
+      "launchBrowser": false
+    }
+  }
+}
