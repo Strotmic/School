@@ -1,0 +1,13 @@
+spec:
+  ...
+  template:
+    ...
+    spec:
+      ...
+      containers:
+      - name: database
+        ...
+        volumeMounts:
+          - mountPath: "/var/lib/mysql" # This is the path where the files on the Docker container will be stored. For MySQL it resides under /var/lib/mysql according to the docs.
+						# This refers to the Volume section we defined in the previous YAML file.
+            name: database-persistent-storage

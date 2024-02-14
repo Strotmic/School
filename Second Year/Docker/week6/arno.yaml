@@ -1,0 +1,51 @@
+# YAML files here
+# Define a PersistentVolume
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: test-volume
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteOnce
+  persistentVolumeReclaimPolicy: Retain
+  hostPath:
+    path: '/mnt/data'
+
+---
+# Define a PersistentVolumeClaim
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: test-volumeClaim
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+
+---
+# Define a Pod that uses the PVC
+apiVersion: v1
+kind: Pod
+metadata:
+  name: test-pod
+spec:
+  volumes:
+    - name: test-volume
+      persistentVolumeClaim:
+        claimName: test-pvc
+  containers:
+    - name: test-container
+      image: busybox
+      volumeMounts:
+        - mountPath: '/test-volume'
+          name: test-volume
+      command: ['/bin/sh']
+      args:
+        [
+          '-c',
+          'echo Hello, Kubernetes! > /test-volume/testfile.txt; sleep 3600',
+        ]

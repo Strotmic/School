@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: database-persistent-volume2
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteOnce
+  persistentVolumeReclaimPolicy: Retain
+  storageClassName: manual
+  hostPath:
+    # Make sure these paths are shared in the File Sharing options of Docker Desktop when you're working on Mac or Linux
+    path: '/tmp' # Linux / Mac
+    # path: '/run/desktop/mnt/host/C/tmp' # Windows, make sure this directory exists. This path is the equivalent in Windows for "C:/tmp". But because of the extra layer of WSL, Docker (and thus Kubernetes in this case), cannot access our Windows files otherwise.

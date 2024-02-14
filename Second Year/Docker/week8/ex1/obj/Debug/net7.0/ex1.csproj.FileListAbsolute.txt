@@ -1,0 +1,14 @@
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/bin/Debug/net7.0/ex1
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/bin/Debug/net7.0/ex1.deps.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/bin/Debug/net7.0/ex1.runtimeconfig.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/bin/Debug/net7.0/ex1.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/bin/Debug/net7.0/ex1.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.AssemblyInfoInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.AssemblyInfo.cs
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.csproj.CoreCompileInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/refint/ex1.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ex1.genruntimeconfig.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/Docker/week8/ex1/obj/Debug/net7.0/ref/ex1.dll

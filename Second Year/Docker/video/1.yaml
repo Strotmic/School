@@ -1,0 +1,37 @@
+//kubernetes file 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+  labels:
+    app: my-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+      - name: my-app
+        image: my-app:latest
+        ports:
+        - containerPort: 8080
+        env:
+        - name: MY_ENV
+          value: "my-value"
+status: {}
+#         volumeMounts:
+#         - name: my-volume
+#           mountPath: /etc/my-volume
+#       volumes:
+#       - name: my-volume
+#         configMap:
+#           name: my-config
+#           items:
+#           - key: my-config.yaml
+#             path: my-config.yaml
+# ```

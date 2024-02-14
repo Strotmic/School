@@ -1,0 +1,7 @@
+wordpressUsername: nathan
+service:
+  type: NodePort
+  nodePorts:
+    http: 31000
+    https: 32000
+wordpressBlogName: Nathan's MLOps Blog

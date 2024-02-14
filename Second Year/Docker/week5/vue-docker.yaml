@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test2
+spec:
+  selector:
+    matchLabels:
+      app: vue-docker2
+  replicas: 3 # tells deployment to run 2 pods matching the template
+  template:
+    metadata:
+      labels:
+        app: vue-docker
+    spec:
+      containers:
+        - name: vue-container
+          image: nathansegers/vue-docker
+          ports:
+            - containerPort: 80
+      volumes:
+			# This is a name we choose for the Volume, it is not related to the Persistent Volume itself.
+      - name: database-persistent-storage
+        persistentVolumeClaim:
+          claimName: database-persistent-claim # This is the actual PVC name

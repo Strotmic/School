@@ -1,0 +1,35 @@
+# Deployment
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: vue-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vue-app
+  template:
+    metadata:
+      labels:
+        app: vue-app
+    spec:
+      containers:
+        - name: vue-app
+          image: nathansegers/vue-docker
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
+              protocol: TCP
+          resources: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: vue-service
+spec:
+  selector:
+    app: vue-app
+  ports:
+    - protocol: TCP
+      port: 80 # This is the internal port that is being opened inside the Cluster
+      targetPort: 80 # This is the port that is being exposed by the Container
