@@ -1,0 +1,139 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+$color-blue: #1abaff;
+
+// get the hue of the blue color with the hue function
+$color-blue-hue: hue($color-blue);
+// get the saturation of the blue color with the saturation function
+$color-blue-saturation: saturation($color-blue);
+
+$color-teal: #1affba;
+// get the hue of the teal color with the hue function
+$color-teal-hue: hue($color-teal);
+// get the saturation of the teal color with the saturation function
+$color-teal-saturation: saturation($color-teal);
+
+// set the hue of the gray color to the hue of the blue color
+$color-gray-hue: $color-blue-hue;
+// set the saturation of the gray color to a custom value in percentage
+$color-gray-saturation: 10%;
+
+// create a map of palettes
+// you should have 3 palettes: blue, teal, and gray
+
+$palettes: (
+  color-blue: (
+    100: hsl($color-blue-hue, $color-blue-saturation, 95%),
+    200: hsl($color-blue-hue, $color-blue-saturation, 90%),
+    300: hsl($color-blue-hue, $color-blue-saturation, 80%),
+    400: hsl($color-blue-hue, $color-blue-saturation, 70%),
+    500: hsl($color-blue-hue, $color-blue-saturation, 60%),
+    600: hsl($color-blue-hue, $color-blue-saturation, 50%),
+    700: hsl($color-blue-hue, $color-blue-saturation, 40%),
+    800: hsl($color-blue-hue, $color-blue-saturation, 30%),
+    900: hsl($color-blue-hue, $color-blue-saturation, 20%),
+  ),
+  color-teal: (
+    100: hsl($color-teal-hue, $color-teal-saturation, 95%),
+    200: hsl($color-teal-hue, $color-teal-saturation, 90%),
+    300: hsl($color-teal-hue, $color-teal-saturation, 80%),
+    400: hsl($color-teal-hue, $color-teal-saturation, 70%),
+    500: hsl($color-teal-hue, $color-teal-saturation, 60%),
+    600: hsl($color-teal-hue, $color-teal-saturation, 50%),
+    700: hsl($color-teal-hue, $color-teal-saturation, 40%),
+    800: hsl($color-teal-hue, $color-teal-saturation, 30%),
+    900: hsl($color-teal-hue, $color-teal-saturation, 20%),
+  ),
+  color-gray: (
+    100: hsl($color-gray-hue, $color-gray-saturation, 95%),
+    200: hsl($color-gray-hue, $color-gray-saturation, 90%),
+    300: hsl($color-gray-hue, $color-gray-saturation, 80%),
+    400: hsl($color-gray-hue, $color-gray-saturation, 70%),
+    500: hsl($color-gray-hue, $color-gray-saturation, 60%),
+    600: hsl($color-gray-hue, $color-gray-saturation, 50%),
+    700: hsl($color-gray-hue, $color-gray-saturation, 40%),
+    800: hsl($color-gray-hue, $color-gray-saturation, 30%),
+    900: hsl($color-gray-hue, $color-gray-saturation, 20%),
+  ),
+);
+
+/*---------------------------------------/*
+ # TOOLS
+/*---------------------------------------*/
+
+// create a Sass function to get a color from the palette
+
+@function get-color($palette, $color) {
+  @return map-get(map-get($palettes, $palette), $color);
+}
+
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+
+body {
+  margin: 0;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+
+.c-palette {
+  display: flex;
+
+  &__swatch {
+    flex: 1 1 auto;
+    aspect-ratio: 3/2;
+  }
+}
+
+.c-palette + .c-palette {
+  margin-top: 2rem;
+}
+
+h1 {
+  // set the h1 to the lightest background color of the gray palette with the get color function
+  // set the h1 to the darkest color of the gray palette with the get color function
+  background-color: get-color(color-teal, 900);
+  color: get-color(color-blue, 500);
+  padding: 1rem;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+
+// Generate a utility background-color class for each color in each palette
+// for example, the gray palette should have the following classes withe associated color set as the val:
+// look at https://sass-lang.com/documentation/values/maps#do-something-for-every-pair to see how to loop through a map
+// watch out because you will need to nest
+
+// .u-background-color-gray-100 {
+//   background-color: generated color from the palette;
+// }
+
+@each $palette, $colors in $palettes {
+  @each $color, $value in $colors {
+    .u-background-#{$palette}-#{$color} {
+      background: $value;
+    }
+  }
+}

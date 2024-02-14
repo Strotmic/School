@@ -1,0 +1,358 @@
+/*---------------------------------------/*
+ # TOOLS
+/*---------------------------------------*/
+
+// a function to get the color from the palette
+@function get-color($palette, $color) {
+  @return map-get(map-get($palettes, $palette), $color);
+}
+
+//
+// Media Query mixin
+// @include mq(#point, #query1, #query2);
+//
+
+@mixin mq($breakpoint, $query1: min, $query2: width) {
+  $query: map-get($breakpoints, $breakpoint);
+
+  @if $query != null {
+    @media (#{$query1}-#{$query2}: #{$query}) {
+      @content;
+    }
+  } @else {
+    @media (#{$query1}-#{$query2}: $breakpoint) {
+      @content;
+    }
+  }
+}
+
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+
+// ---
+// Settings: Colors
+// ---
+
+$color-blue: #1abaff;
+$color-blue-hue: hue($color-blue);
+$color-blue-saturation: saturation($color-blue);
+
+$color-teal: #1affba;
+$color-teal-hue: hue($color-teal);
+$color-teal-saturation: saturation($color-teal);
+
+$color-gray-hue: hue($color-blue);
+$color-gray-saturation: 10%;
+
+$palettes: (
+  color-gray: (
+    100: hsl($color-gray-hue, $color-gray-saturation, 95%),
+    200: hsl($color-gray-hue, $color-gray-saturation, 90%),
+    300: hsl($color-gray-hue, $color-gray-saturation, 80%),
+    400: hsl($color-gray-hue, $color-gray-saturation, 70%),
+    500: hsl($color-gray-hue, $color-gray-saturation, 50%),
+    600: hsl($color-gray-hue, $color-gray-saturation, 40%),
+    700: hsl($color-gray-hue, $color-gray-saturation, 30%),
+    800: hsl($color-gray-hue, $color-gray-saturation, 20%),
+    900: hsl($color-gray-hue, $color-gray-saturation, 10%),
+  ),
+  color-blue: (
+    100: hsl($color-blue-hue, $color-blue-saturation - 10%, 95%),
+    200: hsl($color-blue-hue, $color-blue-saturation - 10%, 90%),
+    300: hsl($color-blue-hue, $color-blue-saturation - 5%, 80%),
+    400: hsl($color-blue-hue, $color-blue-saturation - 5%, 65%),
+    500: hsl($color-blue-hue, $color-blue-saturation, 50%),
+    600: hsl($color-blue-hue, $color-blue-saturation + 5%, 40%),
+    700: hsl($color-blue-hue, $color-blue-saturation + 5%, 30%),
+    800: hsl($color-blue-hue, $color-blue-saturation + 10%, 20%),
+    900: hsl($color-blue-hue, $color-blue-saturation + 10%, 10%),
+  ),
+  color-teal: (
+    100: hsl($color-teal-hue, $color-teal-saturation - 10%, 95%),
+    200: hsl($color-teal-hue, $color-teal-saturation - 10%, 90%),
+    300: hsl($color-teal-hue, $color-teal-saturation - 5%, 80%),
+    400: hsl($color-teal-hue, $color-teal-saturation, 70%),
+    500: hsl($color-teal-hue, $color-teal-saturation, 50%),
+    600: hsl($color-teal-hue, $color-teal-saturation + 5%, 45%),
+    700: hsl($color-teal-hue, $color-teal-saturation + 5%, 35%),
+    800: hsl($color-teal-hue, $color-teal-saturation + 10%, 25%),
+    900: hsl($color-teal-hue, $color-teal-saturation + 10%, 15%),
+  ),
+);
+
+$color-text: get-color(color-gray, 900);
+$color-text-light: get-color(color-gray, 700);
+$color-text-lighter: get-color(color-gray, 500);
+
+$color-primary: get-color(color-blue, 600);
+$color-primary-light: get-color(color-blue, 500);
+$color-primary-lighter: get-color(color-blue, 400);
+$color-primary-dark: get-color(color-blue, 700);
+
+$color-border: get-color(color-gray, 200);
+$color-border-light: get-color(color-gray, 100);
+$color-border-dark: get-color(color-gray, 300);
+
+// ---
+// Settings: Typography
+// ---
+
+$root-font-size: 16;
+
+// modular scale ratio
+$ratio: 1.125;
+
+// font-sizes
+$ms0: calc($root-font-size / 16 * 1rem); // 16px
+$ms-1: calc($ms0 / $ratio); // 14px
+$ms-2: calc($ms-1 / $ratio); // 12px
+$ms1: calc($ms0 * $ratio); // 18px
+$ms2: calc($ms1 * $ratio); // 20px
+$ms3: calc($ms2 * $ratio); // 23px
+$ms4: calc($ms3 * $ratio); // 26px
+$ms5: calc($ms4 * $ratio); // 32px
+$ms6: calc($ms5 * $ratio); // 36px
+$ms7: calc($ms6 * $ratio); // 41px
+$ms8: calc($ms7 * $ratio); // 46px
+$ms9: calc($ms8 * $ratio); // 52px
+$ms10: calc($ms9 * $ratio); // 58px
+$ms11: calc($ms10 * $ratio); // 66px
+
+$font-family-primary: 'Helvetica Neue', Helvetica, arial, sans-serif;
+$font-family-secondary: 'Times New Roman', Times, serif;
+
+// ---
+// Settings: Spacing
+// ---
+
+// baseline unit
+$baseline: 0.5rem;
+
+// spacing scale
+$space-xxs: calc($baseline * 0.5); // 4px
+$space-xs: calc($baseline * 1); // 8px
+$space-s: calc($baseline * 2); // 16px
+$space-m: calc($baseline * 3); // 24px
+$space-l: calc($space-s * 2); // 32px
+$space-xl: calc($space-m * 2); // 48px
+$space-xxl: calc($space-l * 2); // 64px
+$space-xxxl: calc($space-xl * 2); // 96px
+
+// ---
+// Settings: Breakpoints
+// ---
+
+$breakpoints: (
+  bp1: calc(577 / 16 * 1em),
+  bp2: calc(769 / 16 * 1em),
+  bp3: calc(993 / 16 * 1em),
+  bp4: calc(1201 / 16 * 1em),
+  bp5: calc(1401 / 16 * 1em),
+) !default;
+
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+
+*,
+*:before,
+*:after {
+  // Reset box-sizing
+  box-sizing: border-box;
+}
+* {
+  // Reset margin and font-size
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+}
+img {
+  display: block; // make images block level elements
+  max-width: 100%; // make images responsive
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+
+/*
+    Elements: Page
+    ---
+    Default markup for page level elements
+*/
+
+html {
+  font-size: calc($root-font-size / 16 * 100%); // = 16px
+  line-height: 1.5; // = 24px font-family: $font-family-primary; // global font-family
+  font-family: $font-family-primary;
+  color: $color-text; // global
+  scroll-behavior: smooth; //
+}
+/*
+    Customize the background color and color to match your design.
+*/
+
+::selection {
+  background: $color-primary-light; // background color
+  color: white; // text color
+}
+/*
+    Elements: typography
+    ---
+    Default markup for typographic elements
+*/
+
+h1 {
+  font-size: $ms5;
+  font-weight: 700;
+  line-height: calc ($baseline * 4);
+  margin-bottom: $space-m;
+
+  @include mq(bp1) {
+    font-size: $ms9;
+    line-height: calc ($baseline * 6);
+  }
+
+  @include mq(bp2) {
+    font-size: $ms11;
+    line-height: calc ($baseline * 8);
+  }
+}
+
+h2 {
+  font-weight: 700;
+  font-size: $ms3;
+  line-height: calc ($baseline * 3);
+  margin-bottom: $space-m;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: $ms1;
+  line-height: calc ($baseline * 3);
+  margin-bottom: $space-m;
+}
+
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-size: $ms0;
+  line-height: calc ($baseline * 3);
+  margin-bottom: $space-m;
+}
+
+p,
+ol,
+ul,
+dl,
+table,
+address,
+figure {
+  margin-bottom: $space-m;
+}
+
+ul,
+ol {
+  padding: 0;
+  list-style-position: inside;
+}
+
+li ul,
+li ol {
+  margin-bottom: 0;
+}
+
+blockquote {
+  font-family: $font-family-secondary;
+  font-style: italic;
+  font-size: $ms3;
+  line-height: calc ($baseline * 4);
+  margin-bottom: $space-m;
+}
+
+figcaption {
+  font-size: $ms-1;
+  line-height: calc ($baseline * 2);
+  margin-top: $space-xs;
+  color: Scolor-text-lighter;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: $color-border;
+  margin-bottom: $space-m;
+}
+
+a {
+  color: Scolor-primary;
+  transition: all 0.1s ease-in-out;
+}
+
+a:hover {
+  color: Scolor-primary-light;
+}
+
+a:visited {
+  color: $color-primary;
+}
+
+a:active {
+  color: $color-primary-dark;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+
+/*
+    Objects: Row
+    ---
+    Creates a horizontal row with padding
+*/
+
+.o-row {
+  padding: $space-m $space-m 0;
+  display: flow-root;
+  &--dark {
+    background-color: get-color(color-gray, 800);
+    color: white;
+  }
+  &--primary {
+    background-color: $color-primary;
+  }
+
+  &--lg {
+    @media (min-width: 769px) {
+      padding: $space-xl $space-xl $space-m;
+    }
+  }
+}
+
+/*
+    Objects: Container
+    ---
+    Creates a horizontal container that sets de global max-width
+*/
+
+.o-container {
+  max-width: 50rem;
+  margin-right: AUTO;
+  margin-left: AUTO;
+}
+
+/*
+    Objects: Layout
+    ---
+    Creates a Layout with flexbox
+*/
+
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

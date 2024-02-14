@@ -1,0 +1,208 @@
+/*---------------------------------------/*
+ # TOOLS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+/*
+    Elements: Page
+    ---
+    Default markup for page level elements
+*/
+html {
+  font-size: 100%;
+  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+  color: hsl(198.0786026201, 10%, 10%);
+  scroll-behavior: smooth;
+}
+
+/*
+    Customize the background color and color to match your design.
+*/
+::-moz-selection {
+  background: hsl(198.0786026201, 100%, 50%);
+  color: white;
+}
+::selection {
+  background: hsl(198.0786026201, 100%, 50%);
+  color: white;
+}
+
+/*
+    Elements: typography
+    ---
+    Default markup for typographic elements
+*/
+h1 {
+  font-size: 1.8020324707rem;
+  font-weight: 700;
+  line-height: calc 2rem;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 36.0625em) {
+  h1 {
+    font-size: 2.8865075782rem;
+    line-height: calc 3rem;
+  }
+}
+@media (min-width: 48.0625em) {
+  h1 {
+    font-size: 3.6532361537rem;
+    line-height: calc 4rem;
+  }
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 1.423828125rem;
+  line-height: calc 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: calc 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: calc 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+p,
+ol,
+ul,
+dl,
+table,
+address,
+figure {
+  margin-bottom: 1.5rem;
+}
+
+ul,
+ol {
+  padding: 0;
+  list-style-position: inside;
+}
+
+li ul,
+li ol {
+  margin-bottom: 0;
+}
+
+blockquote {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 1.423828125rem;
+  line-height: calc 2rem;
+  margin-bottom: 1.5rem;
+}
+
+figcaption {
+  font-size: 0.8888888889rem;
+  line-height: calc 1rem;
+  margin-top: 0.5rem;
+  color: Scolor-text-lighter;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: hsl(198.0786026201, 10%, 90%);
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: Scolor-primary;
+  transition: all 0.1s ease-in-out;
+}
+
+a:hover {
+  color: Scolor-primary-light;
+}
+
+a:visited {
+  color: hsl(198.0786026201, 100%, 40%);
+}
+
+a:active {
+  color: hsl(198.0786026201, 100%, 30%);
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*
+    Objects: Row
+    ---
+    Creates a horizontal row with padding
+*/
+.o-row {
+  padding: 1.5rem 1.5rem 0;
+  display: flow-root;
+}
+.o-row--dark {
+  background-color: hsl(198.0786026201, 10%, 20%);
+  color: white;
+}
+.o-row--primary {
+  background-color: hsl(198.0786026201, 100%, 40%);
+}
+@media (min-width: 769px) {
+  .o-row--lg {
+    padding: 3rem 3rem 1.5rem;
+  }
+}
+
+/*
+    Objects: Container
+    ---
+    Creates a horizontal container that sets de global max-width
+*/
+.o-container {
+  max-width: 50rem;
+  margin-right: AUTO;
+  margin-left: AUTO;
+}
+
+/*
+    Objects: Layout
+    ---
+    Creates a Layout with flexbox
+*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/

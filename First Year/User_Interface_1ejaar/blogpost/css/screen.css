@@ -1,0 +1,871 @@
+/*---------------------------------------/*
+ # TOOLS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+@font-face {
+  font-family: "Inter Web";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/Inter-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter Web";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/Inter-Bold.woff2") format("woff2");
+}
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+/*
+    Elements: Page
+    ---
+    Default markup for page level elements
+*/
+html {
+  font-size: 100%;
+  line-height: 1.5;
+  font-family: "droid-serif", Helvetica, arial, sans-serif;
+  color: hsl(198.0786026201, 10%, 30%);
+  scroll-behavior: smooth;
+}
+
+/*
+    Customize the background color and color to match your design.
+*/
+::-moz-selection {
+  background: hsl(198.0786026201, 100%, 50%);
+  color: white;
+}
+::selection {
+  background: hsl(198.0786026201, 100%, 50%);
+  color: white;
+}
+
+/*
+    Elements: typography
+    ---
+    Default markup for typographic elements
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter Web", Times, serif;
+  color: hsl(198.0786026201, 10%, 10%);
+}
+
+h1 {
+  font-size: 1.8020324707rem;
+  font-weight: 700;
+  line-height: 2rem;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 36.0625em) {
+  h1 {
+    font-size: 2.8865075782rem;
+    line-height: 3rem;
+  }
+}
+@media (min-width: 48.0625em) {
+  h1 {
+    font-size: 3.6532361537rem;
+    line-height: 4rem;
+  }
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 1.423828125rem;
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+p,
+ol,
+ul,
+dl,
+table,
+address,
+figure {
+  margin-bottom: 1.5rem;
+}
+
+ul,
+ol {
+  margin-left: 1.5rem;
+}
+
+li ul,
+li ol {
+  margin-bottom: 0;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.423828125rem;
+  line-height: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+figcaption {
+  font-size: 0.8888888889rem;
+  line-height: 1rem;
+  margin-top: 0.5rem;
+  color: hsl(198.0786026201, 10%, 50%);
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: hsl(198.0786026201, 10%, 90%);
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: hsl(198.0786026201, 100%, 40%);
+  transition: all 0.1s ease-in-out;
+}
+
+a:visited {
+  color: hsl(198.0786026201, 100%, 40%);
+}
+
+a:hover {
+  color: hsl(198.0786026201, 100%, 50%);
+}
+
+a:active {
+  color: hsl(198.0786026201, 100%, 30%);
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*
+    Objects: Row
+    ---
+    Creates a horizontal row with padding
+*/
+.o-row {
+  padding: 1.5rem 1.5rem 0;
+  display: flow-root;
+}
+@media (min-width: 48.0625em) {
+  .o-row {
+    padding: 1.5rem 3rem 0;
+  }
+}
+
+.o-row--primary {
+  background: hsl(198.0786026201, 95%, 65%);
+}
+
+.o-row--grey-dark {
+  background-color: hsl(198.0786026201, 10%, 20%);
+  color: white;
+}
+
+@media (min-width: 48.0625em) {
+  .o-row--l {
+    padding: 3rem 3rem 1.5rem;
+  }
+}
+
+/*
+    Objects: Container
+    ---
+    Creates a horizontal container that sets de global max-width
+*/
+.o-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 75rem;
+}
+
+/*
+    Objects: Layout
+    ---
+    The layout object provides us with a column-style layout system. This object
+    contains the basic structural elements, but classes should be complemented
+    with width utilities
+*/
+.o-layout {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.o-layout__item {
+  flex-basis: 100%;
+}
+
+/* gutter modifiers, these affect o-layout__item too */
+.o-layout--gutter {
+  margin-left: -0.75rem;
+  margin-right: -0.75rem;
+}
+
+.o-layout--gutter > .o-layout__item {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.o-layout--gutter-s {
+  margin-left: -0.5rem;
+  margin-right: -0.5rem;
+}
+
+.o-layout--gutter-s > .o-layout__item {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.o-layout--gutter-l {
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+.o-layout--gutter-l > .o-layout__item {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* reverse horizontal row modifier */
+.o-layout--row-reverse {
+  flex-direction: row-reverse;
+}
+
+/* Horizontal alignment modifiers*/
+.o-layout--justify-start {
+  justify-content: flex-start;
+}
+
+.o-layout--justify-end {
+  justify-content: flex-end;
+}
+
+.o-layout--justify-center {
+  justify-content: center;
+}
+
+.o-layout--justify-space-around {
+  justify-content: space-around;
+}
+
+.o-layout--justify-space-evenly {
+  justify-content: space-evenly;
+}
+
+.o-layout--justify-space-between {
+  justify-content: space-between;
+}
+
+/* Vertical alignment modifiers */
+.o-layout--align-start {
+  align-items: flex-start;
+}
+
+.o-layout--align-end {
+  align-items: flex-end;
+}
+
+.o-layout--align-center {
+  align-items: center;
+}
+
+.o-layout--align-baseline {
+  align-items: baseline;
+}
+
+/* Vertical alignment modifiers that only work if there is one than one flex item */
+.o-layout--align-content-start {
+  align-content: start;
+}
+
+.o-layout--align-content-end {
+  align-content: end;
+}
+
+.o-layout--align-content-center {
+  align-content: center;
+}
+
+.o-layout--align-content-space-around {
+  align-content: space-around;
+}
+
+.o-layout--align-content-space-between {
+  align-content: space-between;
+}
+
+/*------------------------------------*\
+  #COMPONENTS
+\*------------------------------------*/
+/*
+    Components: Author
+*/
+.c-author {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+  gap: 16px;
+}
+@media (min-width: 62.0625em) {
+  .c-author {
+    flex-direction: column;
+    align-items: unset;
+  }
+}
+
+.c-author__image {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+
+.c-author__caption {
+  padding-top: 0;
+}
+
+.c-author__name,
+.c-author__meta {
+  margin-bottom: 0;
+}
+
+.c-author__name {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.c-author__meta {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  line-height: 24px;
+}
+
+/*
+    Components: Quote
+*/
+.c-quote {
+  margin: 48px -24px;
+  padding: 24px;
+  color: hsl(161.9213973799, 100%, 35%);
+  background-color: hsl(161.9213973799, 90%, 95%);
+}
+
+/*
+    Component: layout block
+    ---
+    A small component to demonstrate the layout items
+*/
+.c-layout-block {
+  background-color: LightGrey;
+  padding: 8px 12px;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.c-layout-block--ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/*
+    Scope: Content
+    Specific behaviour inside s-content class
+*/
+.s-content * + h2 {
+  margin-top: 3rem;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+/*
+    Utilities: Max widths
+    ---
+    max-width utility classes
+*/
+.u-max-width-s {
+  max-width: 37.5rem;
+}
+
+.u-max-width-m {
+  max-width: 60rem;
+}
+
+.u-max-width-l {
+  max-width: 87.5rem;
+}
+
+/*
+    Utitlities: whitespace
+    ---
+    Utility classes to put specific margins and padding onto elements
+*/
+.u-mb-clear {
+  margin-bottom: 0;
+}
+
+.u-mb-s {
+  margin-bottom: 1rem;
+}
+
+.u-mb-xs {
+  margin-bottom: 0.5rem;
+}
+
+/*
+  Utilities: Font size
+  ---
+  Font size utility classes
+*/
+.u-ms-1 {
+  font-size: 0.8888888889rem;
+  line-height: 1.5rem;
+}
+
+/*
+    Utilities: Widths
+    ---
+    Width utility classes
+*/
+.u-flex-basis-auto {
+  flex-basis: auto;
+}
+
+.u-1-of-2 {
+  flex-basis: 50% !important;
+}
+
+.u-2-of-2 {
+  flex-basis: 100% !important;
+}
+
+.u-1-of-3 {
+  flex-basis: 33.3333333333% !important;
+}
+
+.u-2-of-3 {
+  flex-basis: 66.6666666667% !important;
+}
+
+.u-3-of-3 {
+  flex-basis: 100% !important;
+}
+
+.u-1-of-4 {
+  flex-basis: 25% !important;
+}
+
+.u-2-of-4 {
+  flex-basis: 50% !important;
+}
+
+.u-3-of-4 {
+  flex-basis: 75% !important;
+}
+
+.u-4-of-4 {
+  flex-basis: 100% !important;
+}
+
+.u-1-of-5 {
+  flex-basis: 20% !important;
+}
+
+.u-2-of-5 {
+  flex-basis: 40% !important;
+}
+
+.u-3-of-5 {
+  flex-basis: 60% !important;
+}
+
+.u-4-of-5 {
+  flex-basis: 80% !important;
+}
+
+.u-5-of-5 {
+  flex-basis: 100% !important;
+}
+
+.u-1-of-6 {
+  flex-basis: 16.6666666667% !important;
+}
+
+.u-2-of-6 {
+  flex-basis: 33.3333333333% !important;
+}
+
+.u-3-of-6 {
+  flex-basis: 50% !important;
+}
+
+.u-4-of-6 {
+  flex-basis: 66.6666666667% !important;
+}
+
+.u-5-of-6 {
+  flex-basis: 83.3333333333% !important;
+}
+
+.u-6-of-6 {
+  flex-basis: 100% !important;
+}
+
+@media (min-width: 36.0625em) {
+  .u-1-of-2-bp1 {
+    flex-basis: 50% !important;
+  }
+  .u-2-of-2-bp1 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-3-bp1 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-2-of-3-bp1 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-3-of-3-bp1 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-4-bp1 {
+    flex-basis: 25% !important;
+  }
+  .u-2-of-4-bp1 {
+    flex-basis: 50% !important;
+  }
+  .u-3-of-4-bp1 {
+    flex-basis: 75% !important;
+  }
+  .u-4-of-4-bp1 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-5-bp1 {
+    flex-basis: 20% !important;
+  }
+  .u-2-of-5-bp1 {
+    flex-basis: 40% !important;
+  }
+  .u-3-of-5-bp1 {
+    flex-basis: 60% !important;
+  }
+  .u-4-of-5-bp1 {
+    flex-basis: 80% !important;
+  }
+  .u-5-of-5-bp1 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-6-bp1 {
+    flex-basis: 16.6666666667% !important;
+  }
+  .u-2-of-6-bp1 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-3-of-6-bp1 {
+    flex-basis: 50% !important;
+  }
+  .u-4-of-6-bp1 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-5-of-6-bp1 {
+    flex-basis: 83.3333333333% !important;
+  }
+  .u-6-of-6-bp1 {
+    flex-basis: 100% !important;
+  }
+}
+@media (min-width: 48.0625em) {
+  .u-1-of-2-bp2 {
+    flex-basis: 50% !important;
+  }
+  .u-2-of-2-bp2 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-3-bp2 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-2-of-3-bp2 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-3-of-3-bp2 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-4-bp2 {
+    flex-basis: 25% !important;
+  }
+  .u-2-of-4-bp2 {
+    flex-basis: 50% !important;
+  }
+  .u-3-of-4-bp2 {
+    flex-basis: 75% !important;
+  }
+  .u-4-of-4-bp2 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-5-bp2 {
+    flex-basis: 20% !important;
+  }
+  .u-2-of-5-bp2 {
+    flex-basis: 40% !important;
+  }
+  .u-3-of-5-bp2 {
+    flex-basis: 60% !important;
+  }
+  .u-4-of-5-bp2 {
+    flex-basis: 80% !important;
+  }
+  .u-5-of-5-bp2 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-6-bp2 {
+    flex-basis: 16.6666666667% !important;
+  }
+  .u-2-of-6-bp2 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-3-of-6-bp2 {
+    flex-basis: 50% !important;
+  }
+  .u-4-of-6-bp2 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-5-of-6-bp2 {
+    flex-basis: 83.3333333333% !important;
+  }
+  .u-6-of-6-bp2 {
+    flex-basis: 100% !important;
+  }
+}
+@media (min-width: 62.0625em) {
+  .u-1-of-2-bp3 {
+    flex-basis: 50% !important;
+  }
+  .u-2-of-2-bp3 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-3-bp3 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-2-of-3-bp3 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-3-of-3-bp3 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-4-bp3 {
+    flex-basis: 25% !important;
+  }
+  .u-2-of-4-bp3 {
+    flex-basis: 50% !important;
+  }
+  .u-3-of-4-bp3 {
+    flex-basis: 75% !important;
+  }
+  .u-4-of-4-bp3 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-5-bp3 {
+    flex-basis: 20% !important;
+  }
+  .u-2-of-5-bp3 {
+    flex-basis: 40% !important;
+  }
+  .u-3-of-5-bp3 {
+    flex-basis: 60% !important;
+  }
+  .u-4-of-5-bp3 {
+    flex-basis: 80% !important;
+  }
+  .u-5-of-5-bp3 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-6-bp3 {
+    flex-basis: 16.6666666667% !important;
+  }
+  .u-2-of-6-bp3 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-3-of-6-bp3 {
+    flex-basis: 50% !important;
+  }
+  .u-4-of-6-bp3 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-5-of-6-bp3 {
+    flex-basis: 83.3333333333% !important;
+  }
+  .u-6-of-6-bp3 {
+    flex-basis: 100% !important;
+  }
+}
+@media (min-width: 75.0625em) {
+  .u-1-of-2-bp4 {
+    flex-basis: 50% !important;
+  }
+  .u-2-of-2-bp4 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-3-bp4 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-2-of-3-bp4 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-3-of-3-bp4 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-4-bp4 {
+    flex-basis: 25% !important;
+  }
+  .u-2-of-4-bp4 {
+    flex-basis: 50% !important;
+  }
+  .u-3-of-4-bp4 {
+    flex-basis: 75% !important;
+  }
+  .u-4-of-4-bp4 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-5-bp4 {
+    flex-basis: 20% !important;
+  }
+  .u-2-of-5-bp4 {
+    flex-basis: 40% !important;
+  }
+  .u-3-of-5-bp4 {
+    flex-basis: 60% !important;
+  }
+  .u-4-of-5-bp4 {
+    flex-basis: 80% !important;
+  }
+  .u-5-of-5-bp4 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-6-bp4 {
+    flex-basis: 16.6666666667% !important;
+  }
+  .u-2-of-6-bp4 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-3-of-6-bp4 {
+    flex-basis: 50% !important;
+  }
+  .u-4-of-6-bp4 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-5-of-6-bp4 {
+    flex-basis: 83.3333333333% !important;
+  }
+  .u-6-of-6-bp4 {
+    flex-basis: 100% !important;
+  }
+}
+@media (min-width: 87.5625em) {
+  .u-1-of-2-bp5 {
+    flex-basis: 50% !important;
+  }
+  .u-2-of-2-bp5 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-3-bp5 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-2-of-3-bp5 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-3-of-3-bp5 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-4-bp5 {
+    flex-basis: 25% !important;
+  }
+  .u-2-of-4-bp5 {
+    flex-basis: 50% !important;
+  }
+  .u-3-of-4-bp5 {
+    flex-basis: 75% !important;
+  }
+  .u-4-of-4-bp5 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-5-bp5 {
+    flex-basis: 20% !important;
+  }
+  .u-2-of-5-bp5 {
+    flex-basis: 40% !important;
+  }
+  .u-3-of-5-bp5 {
+    flex-basis: 60% !important;
+  }
+  .u-4-of-5-bp5 {
+    flex-basis: 80% !important;
+  }
+  .u-5-of-5-bp5 {
+    flex-basis: 100% !important;
+  }
+  .u-1-of-6-bp5 {
+    flex-basis: 16.6666666667% !important;
+  }
+  .u-2-of-6-bp5 {
+    flex-basis: 33.3333333333% !important;
+  }
+  .u-3-of-6-bp5 {
+    flex-basis: 50% !important;
+  }
+  .u-4-of-6-bp5 {
+    flex-basis: 66.6666666667% !important;
+  }
+  .u-5-of-6-bp5 {
+    flex-basis: 83.3333333333% !important;
+  }
+  .u-6-of-6-bp5 {
+    flex-basis: 100% !important;
+  }
+}

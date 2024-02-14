@@ -1,0 +1,158 @@
+/*---------------------------------------/*
+ # SETTINGS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # TOOLS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # GENERIC
+/*---------------------------------------*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/*---------------------------------------/*
+ # ELEMENTS
+/*---------------------------------------*/
+body {
+  margin: 0;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+/*---------------------------------------/*
+ # OBJECTS
+/*---------------------------------------*/
+/*---------------------------------------/*
+ # COMPONENTS
+/*---------------------------------------*/
+.c-palette {
+  display: flex;
+}
+.c-palette__swatch {
+  flex: 1 1 auto;
+  aspect-ratio: 3/2;
+}
+
+.c-palette + .c-palette {
+  margin-top: 2rem;
+}
+
+h1 {
+  background-color: hsl(161.9213973799, 100%, 20%);
+  color: hsl(198.0786026201, 100%, 60%);
+  padding: 1rem;
+}
+
+/*---------------------------------------/*
+ # UTILITIES
+/*---------------------------------------*/
+.u-background-color-blue-100 {
+  background: hsl(198.0786026201, 100%, 95%);
+}
+
+.u-background-color-blue-200 {
+  background: hsl(198.0786026201, 100%, 90%);
+}
+
+.u-background-color-blue-300 {
+  background: hsl(198.0786026201, 100%, 80%);
+}
+
+.u-background-color-blue-400 {
+  background: hsl(198.0786026201, 100%, 70%);
+}
+
+.u-background-color-blue-500 {
+  background: hsl(198.0786026201, 100%, 60%);
+}
+
+.u-background-color-blue-600 {
+  background: hsl(198.0786026201, 100%, 50%);
+}
+
+.u-background-color-blue-700 {
+  background: hsl(198.0786026201, 100%, 40%);
+}
+
+.u-background-color-blue-800 {
+  background: hsl(198.0786026201, 100%, 30%);
+}
+
+.u-background-color-blue-900 {
+  background: hsl(198.0786026201, 100%, 20%);
+}
+
+.u-background-color-teal-100 {
+  background: hsl(161.9213973799, 100%, 95%);
+}
+
+.u-background-color-teal-200 {
+  background: hsl(161.9213973799, 100%, 90%);
+}
+
+.u-background-color-teal-300 {
+  background: hsl(161.9213973799, 100%, 80%);
+}
+
+.u-background-color-teal-400 {
+  background: hsl(161.9213973799, 100%, 70%);
+}
+
+.u-background-color-teal-500 {
+  background: hsl(161.9213973799, 100%, 60%);
+}
+
+.u-background-color-teal-600 {
+  background: hsl(161.9213973799, 100%, 50%);
+}
+
+.u-background-color-teal-700 {
+  background: hsl(161.9213973799, 100%, 40%);
+}
+
+.u-background-color-teal-800 {
+  background: hsl(161.9213973799, 100%, 30%);
+}
+
+.u-background-color-teal-900 {
+  background: hsl(161.9213973799, 100%, 20%);
+}
+
+.u-background-color-gray-100 {
+  background: hsl(198.0786026201, 10%, 95%);
+}
+
+.u-background-color-gray-200 {
+  background: hsl(198.0786026201, 10%, 90%);
+}
+
+.u-background-color-gray-300 {
+  background: hsl(198.0786026201, 10%, 80%);
+}
+
+.u-background-color-gray-400 {
+  background: hsl(198.0786026201, 10%, 70%);
+}
+
+.u-background-color-gray-500 {
+  background: hsl(198.0786026201, 10%, 60%);
+}
+
+.u-background-color-gray-600 {
+  background: hsl(198.0786026201, 10%, 50%);
+}
+
+.u-background-color-gray-700 {
+  background: hsl(198.0786026201, 10%, 40%);
+}
+
+.u-background-color-gray-800 {
+  background: hsl(198.0786026201, 10%, 30%);
+}
+
+.u-background-color-gray-900 {
+  background: hsl(198.0786026201, 10%, 20%);
+}
