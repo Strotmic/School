@@ -1,0 +1,29 @@
+#timbleuze
+version: '3'
+services:
+  database:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_DB: todo_db
+      POSTGRES_USER: todo_user
+      POSTGRES_PASSWORD: todo_password
+
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgres://todo_user:todo_password@database:5432/todo_db
+    depends_on:
+      - database
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "80:80"
+    environment:
+      BACKEND_URL: http://backend:8000
+
