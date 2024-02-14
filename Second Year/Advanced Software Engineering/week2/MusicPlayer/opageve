@@ -1,0 +1,18 @@
+In this exercise, you will practice object-oriented programming in C# by creating a music player application. You will define classes for songs and albums and introduce a **`Player`** class to manage song playback.
+
+### **Requirements**
+
+1. Create a new console application named **`MusicPlayer`**.
+2. Define a class named **`Song`** with the following properties:
+    - **`Title`** (string): The title of the song.
+    - **`Duration`** (int): The duration of the song in seconds.
+3. Define a class named **`Album`** with the following properties:
+    - **`Name`** (string): The name of the album.
+    - **`Artist`** (string): The artist or band who created the album.
+    - **`Genre`** (string): The genre of the album.
+    - **`Year`** (string): The year in which the album was released.
+    - **`Songs`** (List of Song): A list of songs that belong to the album.
+4. Create a class named **`Player`** with the following methods:
+    - **`PlaySong(Song song)`**: This method should print the name of the song to the screen when it's played.
+5. In the **`Main`** method of the **`MusicPlayer`** application, create instances of the **`Song`** and **`Album`** classes with realistic data.
+6. Create an instance of the **`Player`** class and use its **`PlaySong`** method to simulate playing each song from the albums. Print the song name to the screen when it's played.

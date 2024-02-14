@@ -1,0 +1,28 @@
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.AssemblyInfoInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.AssemblyInfo.cs
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.csproj.CoreCompileInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/bin/Debug/net7.0/Ex1
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/bin/Debug/net7.0/Ex1.deps.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/bin/Debug/net7.0/Ex1.runtimeconfig.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/bin/Debug/net7.0/Ex1.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/bin/Debug/net7.0/Ex1.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/refint/Ex1.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/Ex1.genruntimeconfig.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week3/Ex1/obj/Debug/net7.0/ref/Ex1.dll
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\bin\Debug\net7.0\Ex1.exe
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\bin\Debug\net7.0\Ex1.deps.json
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\bin\Debug\net7.0\Ex1.runtimeconfig.json
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\bin\Debug\net7.0\Ex1.dll
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\bin\Debug\net7.0\Ex1.pdb
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.AssemblyInfo.cs
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.dll
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\refint\Ex1.dll
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.pdb
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\Ex1.genruntimeconfig.cache
+C:\Users\timbl\OneDrive - Hogeschool West-Vlaanderen\_2eJaar\AdvancedSoftware\week3\Ex1\obj\Debug\net7.0\ref\Ex1.dll

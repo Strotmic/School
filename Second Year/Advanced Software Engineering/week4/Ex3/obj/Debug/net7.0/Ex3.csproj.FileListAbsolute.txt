@@ -1,0 +1,14 @@
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.AssemblyInfoInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.AssemblyInfo.cs
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.csproj.CoreCompileInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/bin/Debug/net7.0/Ex3
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/bin/Debug/net7.0/Ex3.deps.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/bin/Debug/net7.0/Ex3.runtimeconfig.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/bin/Debug/net7.0/Ex3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/bin/Debug/net7.0/Ex3.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/refint/Ex3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/Ex3.genruntimeconfig.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Ex3/obj/Debug/net7.0/ref/Ex3.dll

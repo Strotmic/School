@@ -1,0 +1,1 @@
+namespace Howest.mct.classes;

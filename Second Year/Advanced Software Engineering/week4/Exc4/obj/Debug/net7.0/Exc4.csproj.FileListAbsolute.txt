@@ -1,0 +1,14 @@
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.AssemblyInfoInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.AssemblyInfo.cs
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.csproj.CoreCompileInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/bin/Debug/net7.0/Exc4
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/bin/Debug/net7.0/Exc4.deps.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/bin/Debug/net7.0/Exc4.runtimeconfig.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/bin/Debug/net7.0/Exc4.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/bin/Debug/net7.0/Exc4.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/refint/Exc4.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/Exc4.genruntimeconfig.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week4/Exc4/obj/Debug/net7.0/ref/Exc4.dll

@@ -1,0 +1,12 @@
+In this exercise, we will create a basic student management system. 
+A student has a name, email, class, and date of birth.
+Choose the correct data types for these properties. 
+A course has an ID, name, and price for one semester. 
+The following functionality must be available:
+
+- Show courses
+- Show students
+- Create a course
+- Create a student
+- Add a course to a student
+- Total price for a student course rolled in

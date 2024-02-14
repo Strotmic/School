@@ -1,0 +1,14 @@
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.AssemblyInfoInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.AssemblyInfo.cs
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.csproj.CoreCompileInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/bin/Debug/net7.0/Exercise01
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/bin/Debug/net7.0/Exercise01.deps.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/bin/Debug/net7.0/Exercise01.runtimeconfig.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/bin/Debug/net7.0/Exercise01.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/bin/Debug/net7.0/Exercise01.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/refint/Exercise01.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/Exercise01.genruntimeconfig.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/week2/ex1/Exercise01/obj/Debug/net7.0/ref/Exercise01.dll
