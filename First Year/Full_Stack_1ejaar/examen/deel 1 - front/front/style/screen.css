@@ -1,0 +1,215 @@
+@import url("https://fonts.googleapis.com/css2?family=Cousine&family=Roboto&family=Source+Sans+Pro&display=swap");
+body,
+html {
+  font: 1rem/1.6 "Source Sans Pro", sans-serif;
+}
+
+.c-app {
+  max-width: 67.5rem;
+  margin: 0 auto;
+}
+
+.o-gridcontainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 3.5rem 3.5rem 3.5rem 3.5rem 3.5rem 3.5rem 3.5rem 3.5rem 3.5rem;
+  grid-gap: 0.25rem;
+}
+.o-gridcol__1 {
+  grid-column: 1;
+}
+.o-gridcol__2 {
+  grid-column: 2;
+}
+.o-gridcol__3 {
+  grid-column: 3;
+}
+.o-gridcol__4 {
+  grid-column: 4;
+}
+.o-gridcol__5 {
+  grid-column: 5;
+}
+.o-gridcol__6 {
+  grid-column: 6;
+}
+.o-gridcol__7 {
+  grid-column: 7;
+}
+.o-gridcol__8 {
+  grid-column: 8;
+}
+.o-gridcol__9 {
+  grid-column: 9;
+}
+.o-gridcol__10 {
+  grid-column: 10;
+}
+.o-gridcol__11 {
+  grid-column: 11;
+}
+.o-gridcol__12 {
+  grid-column: 12;
+}
+.o-gridcol__13 {
+  grid-column: 13;
+}
+.o-gridcol__14 {
+  grid-column: 14;
+}
+.o-gridcol__15 {
+  grid-column: 15;
+}
+.o-gridcol__16 {
+  grid-column: 16;
+}
+.o-gridcol__17 {
+  grid-column: 17;
+}
+.o-gridcol__18 {
+  grid-column: 18;
+}
+.o-gridrow__1 {
+  grid-row: 1;
+}
+.o-gridrow__2 {
+  grid-row: 2;
+}
+.o-gridrow__3 {
+  grid-row: 3;
+}
+.o-gridrow__4 {
+  grid-row: 4;
+}
+.o-gridrow__5 {
+  grid-row: 5;
+}
+.o-gridrow__6 {
+  grid-row: 6;
+}
+.o-gridrow__7 {
+  grid-row: 7;
+}
+.o-gridrow__8 {
+  grid-row: 8;
+}
+.o-gridrow__9 {
+  grid-row: 9;
+}
+
+.c-filter {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+  margin: 1rem -0.25rem;
+}
+.c-filter__type {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  margin: 0.25rem 0.25rem;
+  border-radius: 1rem;
+  cursor: pointer;
+  background: #eeeeee;
+  opacity: 0.6;
+  will-change: opacity;
+}
+.c-filter__type:hover {
+  opacity: 1;
+}
+.c-filter__type::before {
+  content: "";
+  width: 0.75rem;
+  height: 0.75rem;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+  background: red;
+}
+.c-filter__type--actinide::before {
+  background: lightgrey;
+}
+.c-filter__type--alkalimetal::before {
+  background: orangered;
+}
+.c-filter__type--alkalineearthmetal::before {
+  background: lightseagreen;
+}
+.c-filter__type--halogen::before {
+  background: lightsalmon;
+}
+.c-filter__type--lanthanide::before {
+  background: lightgreen;
+}
+.c-filter__type--metal::before {
+  background: cornflowerblue;
+}
+.c-filter__type--metalloid::before {
+  background: hotpink;
+}
+.c-filter__type--noblegas::before {
+  background: limegreen;
+}
+.c-filter__type--nonmetal::before {
+  background: yellow;
+}
+.c-filter__type--transactinide::before {
+  background: lightblue;
+}
+.c-filter__type--transitionmetal::before {
+  background: lightskyblue;
+}
+
+.c-mendelelement {
+  display: flex;
+  flex-direction: column;
+  padding: 0.2rem;
+  cursor: help;
+}
+.c-mendelelement:hover {
+  opacity: 0.7;
+  /* border: solid thin black; */
+}
+.c-mendelelement__symbol {
+  display: flex;
+  align-self: center;
+  font-family: Cousine;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.c-mendelelement__atomicnumber {
+  font-size: 0.75rem;
+  display: flex;
+}
+.c-mendelelement--noblegas {
+  background-color: limegreen;
+}
+.c-mendelelement--nonmetal {
+  background-color: yellow;
+}
+.c-mendelelement--alkalimetal {
+  background-color: orangered;
+}
+.c-mendelelement--alkalineearthmetal {
+  background-color: lightseagreen;
+}
+.c-mendelelement--metalloid {
+  background-color: hotpink;
+}
+.c-mendelelement--halogen {
+  background-color: lightsalmon;
+}
+.c-mendelelement--transitionmetal {
+  background-color: lightskyblue;
+}
+.c-mendelelement--lanthanide {
+  background-color: lightgreen;
+}
+.c-mendelelement--actinide {
+  background-color: lightgrey;
+}
+.c-mendelelement--transactinide {
+  background-color: lightblue;
+}
+.c-mendelelement--metal {
+  background-color: cornflowerblue;
+}/*# sourceMappingURL=screen.css.map */

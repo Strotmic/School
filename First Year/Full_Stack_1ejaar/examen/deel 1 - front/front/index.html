@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="stylesheet" href="style/screen.css">
+
+  <script src="script/dataHandler.js"></script>
+  <script src="script/app.js"></script>
+
+  <title>Table of Mendeljev</title>
+</head>
+
+<body>
+  <main class="c-app">
+    <h1>Table of Mendeljev</h1>
+
+    <h3>Filter</h3>
+    <div class="js-filter c-filter">
+      <div data-typeid="1" class="js-filter-type c-filter__type c-filter__type--actinide">Actinide</div>
+      <div data-typeid="2" class="js-filter-type c-filter__type c-filter__type--alkalimetal">Alkali Metal</div>
+      <div data-typeid="3" class="js-filter-type c-filter__type c-filter__type--TYPECODE">TYPE</div>
+    </div>
+
+    <h3>Table</h3>
+    <div class="o-gridcontainer js-mendeljev">
+      <div data-atomic="1" class="c-mendelelement o-gridrow__1 o-gridcol__1 c-mendelelement--nonmetal">
+        <div class="c-mendelelement__atomicnumber">1</div>
+        <div class="c-mendelelement__symbol">H</div>
+      </div>
+      <div data-atomic="2" class="c-mendelelement o-gridrow__1 o-gridcol__18 c-mendelelement--noblegas">
+        <div class="c-mendelelement__atomicnumber">2</div>
+        <div class="c-mendelelement__symbol">He</div>
+      </div>
+      <div data-atomic="44" class="c-mendelelement o-gridrow__5 o-gridcol__8 c-mendelelement--transitionmetal">
+        <div class="c-mendelelement__atomicnumber">44</div>
+        <div class="c-mendelelement__symbol">Ru</div>
+      </div>
+    </div>
+    <h2>Info</h2>
+    <div class="js-info">Symbool: AFKORTING<br>Ontdekker: NAAM_ONTDEKKER(S)<br>Jaar: JAAR_VAN_ONTDEKKING</div>
+  </main>
+</body>
+
+</html>
