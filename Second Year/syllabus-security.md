@@ -1,0 +1,6 @@
+- Computer security concepts and considerations-Recognizing a risks, vulnerabilities and threats
+- Defining and analyzing countermeasures
+- Securing from the perspective of the NIST CSF
+- Implementations and countermeasures
+- Situation of commonly used cryptographic techniques
+- Considerations in proper implementation of security systems

@@ -1,0 +1,8 @@
+- Types of data, data representations and center sizes
+- Data processing and visualization in Python
+- Dispersion values
+- Probability distributions and inferential statistics
+- Correlation and regression
+- Linear regression and time series predictions
+- Inconsistent data
+- Introduction Artificial Intelligence (AI)
