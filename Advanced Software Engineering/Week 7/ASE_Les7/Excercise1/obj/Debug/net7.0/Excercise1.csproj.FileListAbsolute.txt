@@ -1,0 +1,29 @@
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.exe
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.deps.json
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.runtimeconfig.json
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.dll
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.pdb
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.csproj.AssemblyReference.cache
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.AssemblyInfo.cs
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.dll
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\refint\Excercise1.dll
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.pdb
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.genruntimeconfig.cache
+C:\Users\flor\OneDrive - Hogeschool West-Vlaanderen\Documenten\School\Advanced software\ASE_Les7\Excercise1\obj\Debug\net7.0\ref\Excercise1.dll
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.exe
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.deps.json
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.runtimeconfig.json
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.dll
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\bin\Debug\net7.0\Excercise1.pdb
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.AssemblyInfo.cs
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.dll
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\refint\Excercise1.dll
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.pdb
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\Excercise1.genruntimeconfig.cache
+C:\Users\arnow\OneDrive\Documenten\MCT\Advanced Software Engineering\Week 7\ASE_Les7\Excercise1\obj\Debug\net7.0\ref\Excercise1.dll

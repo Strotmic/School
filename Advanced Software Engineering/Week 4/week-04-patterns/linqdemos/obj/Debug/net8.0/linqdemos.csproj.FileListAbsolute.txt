@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/bin/Debug/net8.0/linqdemos
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/bin/Debug/net8.0/linqdemos.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/bin/Debug/net8.0/linqdemos.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/bin/Debug/net8.0/linqdemos.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/bin/Debug/net8.0/linqdemos.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/refint/linqdemos.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/linqdemos.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/linqdemos/obj/Debug/net8.0/ref/linqdemos.dll

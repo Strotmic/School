@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/bin/Debug/net8.0/events
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/bin/Debug/net8.0/events.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/bin/Debug/net8.0/events.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/bin/Debug/net8.0/events.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/bin/Debug/net8.0/events.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/refint/events.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/events.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/events/obj/Debug/net8.0/ref/events.dll

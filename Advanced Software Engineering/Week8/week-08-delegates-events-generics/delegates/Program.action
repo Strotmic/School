@@ -1,0 +1,23 @@
+
+SayHello("John", PrintInGreen);
+SayHello("John", PrintInRed);
+
+void SayHello(string name,Action<string> print)
+{
+    print($"Hello {name}");
+}
+
+
+void PrintInGreen(string message)
+{
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine(message);
+    Console.ResetColor();
+}
+
+void PrintInRed(string message)
+{
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine(message);
+    Console.ResetColor();
+}

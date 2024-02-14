@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/bin/Debug/net8.0/eventhandler
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/bin/Debug/net8.0/eventhandler.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/bin/Debug/net8.0/eventhandler.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/bin/Debug/net8.0/eventhandler.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/bin/Debug/net8.0/eventhandler.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/refint/eventhandler.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/eventhandler.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events/eventhandler/obj/Debug/net8.0/ref/eventhandler.dll

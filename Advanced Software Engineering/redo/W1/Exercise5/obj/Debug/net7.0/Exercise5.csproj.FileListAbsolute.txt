@@ -1,0 +1,14 @@
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.AssemblyInfo.cs
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\bin\Debug\net7.0\Exercise5.exe
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\bin\Debug\net7.0\Exercise5.deps.json
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\bin\Debug\net7.0\Exercise5.runtimeconfig.json
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\bin\Debug\net7.0\Exercise5.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\bin\Debug\net7.0\Exercise5.pdb
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\refint\Exercise5.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.pdb
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\Exercise5.genruntimeconfig.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W1\Exercise5\obj\Debug\net7.0\ref\Exercise5.dll

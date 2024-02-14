@@ -1,0 +1,90 @@
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfoInputs.cache
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfo.cs
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CoreCompileInputs.cache
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.AssemblyReference.cache
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.exe
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.deps.json
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.runtimeconfig.json
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.pdb
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/MySqlConnector.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CopyComplete
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/refint/Exercise3.dll
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.pdb
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.genruntimeconfig.cache
+C:/Users/arnow/OneDrive/Documenten/MCT/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/ref/Exercise3.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.exe
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.deps.json
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.runtimeconfig.json
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Exercise3.pdb
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/MySqlConnector.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.AssemblyReference.cache
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfoInputs.cache
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfo.cs
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CoreCompileInputs.cache
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CopyComplete
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/refint/Exercise3.dll
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.pdb
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/Exercise3.genruntimeconfig.cache
+C:/Users/timbl/OneDrive - Hogeschool West-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week 8/Exercise3/obj/Debug/net7.0/ref/Exercise3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Exercise3
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Exercise3.deps.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Exercise3.runtimeconfig.json
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Exercise3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Exercise3.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/MySqlConnector.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.AssemblyReference.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfoInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.AssemblyInfo.cs
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.csproj.CopyComplete
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/refint/Exercise3.dll
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.pdb
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/Exercise3.genruntimeconfig.cache
+/Users/timbleuze/Library/CloudStorage/OneDrive-HogeschoolWest-Vlaanderen/_2eJaar/AdvancedSoftware/Advanced Software Engineering/Week8/Exercise3/obj/Debug/net7.0/ref/Exercise3.dll

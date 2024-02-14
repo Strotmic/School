@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/bin/Debug/net7.0/singleton-pattern
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/bin/Debug/net7.0/singleton-pattern.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/bin/Debug/net7.0/singleton-pattern.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/bin/Debug/net7.0/singleton-pattern.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/bin/Debug/net7.0/singleton-pattern.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/refint/singleton-pattern.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/singleton-pattern.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/obj/Debug/net7.0/ref/singleton-pattern.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tS5wXDa7M9Sak4uo86DW/dK+mZ2WljeljoQXTMSvvl5VDq+St75YmcmmzPuwzFe4cdHf6QnOhwfo4aod75BXQ==",
+  "success": true,
+  "projectFilePath": "/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/singleton-pattern/singleton-pattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/dieterdepreester/.nuget/packages/microsoft.netcore.app.ref/7.0.11/microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "/Users/dieterdepreester/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "/Users/dieterdepreester/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.11/microsoft.netcore.app.host.osx-arm64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

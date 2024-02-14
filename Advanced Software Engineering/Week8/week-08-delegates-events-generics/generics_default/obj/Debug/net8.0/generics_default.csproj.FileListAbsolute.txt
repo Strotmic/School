@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/bin/Debug/net8.0/generics_default
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/bin/Debug/net8.0/generics_default.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/bin/Debug/net8.0/generics_default.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/bin/Debug/net8.0/generics_default.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/bin/Debug/net8.0/generics_default.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/refint/generics_default.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/generics_default.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_default/obj/Debug/net8.0/ref/generics_default.dll

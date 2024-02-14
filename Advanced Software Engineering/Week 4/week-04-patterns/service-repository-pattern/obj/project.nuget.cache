@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuBSSal/sALll1XQc4+ZG3MM6IU2joOzXkeqSY3pMW7Q1O6WXmdJMwrYmh4Kx0xuOwGrpwXvBZFVswW4xUv50w==",
+  "success": true,
+  "projectFilePath": "/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/service-repository-pattern/repository-pattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/dieterdepreester/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/Users/dieterdepreester/.nuget/packages/microsoft.netcore.app.ref/7.0.11/microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "/Users/dieterdepreester/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "/Users/dieterdepreester/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.11/microsoft.netcore.app.host.osx-arm64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

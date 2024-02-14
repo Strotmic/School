@@ -1,0 +1,17 @@
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.csproj.AssemblyReference.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.AssemblyInfoInputs.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.AssemblyInfo.cs
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.csproj.CoreCompileInputs.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\bin\Debug\net7.0\EX1.exe
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\bin\Debug\net7.0\EX1.deps.json
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\bin\Debug\net7.0\EX1.runtimeconfig.json
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\bin\Debug\net7.0\EX1.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\bin\Debug\net7.0\EX1.pdb
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.csproj.CopyComplete
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\refint\EX1.dll
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.pdb
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\EX1.genruntimeconfig.cache
+C:\Users\arnow\OneDrive\Documenten\Arno\MCT\Advanced Software Engineering\redo\W5\EX1\obj\Debug\net7.0\ref\EX1.dll

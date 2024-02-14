@@ -1,0 +1,4 @@
+﻿
+MySingleton.Instance.DoSomething();
+
+ 

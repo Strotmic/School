@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugnVdVMkONAIkF99wza7tTBt2C8xtCKjdTOHq2W6VmqozjNFFw9Am5UlTE6cvCVbOpEptJNRnQM9RHVs+DNLuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arnow\\OneDrive\\Documenten\\MCT\\Advanced Software Engineering\\Week 5\\Exercise2\\Exercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnow\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

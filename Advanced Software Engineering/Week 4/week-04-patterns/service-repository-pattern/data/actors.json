@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "1",
+    "Name": "Tom Hanks",
+    "Age": 65,
+    "Nationality": "United States",
+    "Gender": "Male"
+  },
+  {
+    "Id": "2",
+    "Name": "Meryl Streep",
+    "Age": 72,
+    "Nationality": "United States",
+    "Gender": "Female"
+  },
+  {
+    "Id": "3",
+    "Name": "Leonardo DiCaprio",
+    "Age": 47,
+    "Nationality": "United States",
+    "Gender": "Male"
+  },
+  {
+    "Id": "4",
+    "Name": "Jennifer Lawrence",
+    "Age": 31,
+    "Nationality": "United States",
+    "Gender": "Female"
+  },
+  {
+    "Id": "5",
+    "Name": "Brad Pitt",
+    "Age": 58,
+    "Nationality": "United States",
+    "Gender": "Male"
+  },
+  {
+    "Id": "6",
+    "Name": "Natalie Portman",
+    "Age": 40,
+    "Nationality": "Israel",
+    "Gender": "Female"
+  }
+]

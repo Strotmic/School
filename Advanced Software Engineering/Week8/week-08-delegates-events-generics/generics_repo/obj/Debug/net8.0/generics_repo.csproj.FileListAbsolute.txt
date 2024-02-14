@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/bin/Debug/net8.0/generics_repo
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/bin/Debug/net8.0/generics_repo.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/bin/Debug/net8.0/generics_repo.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/bin/Debug/net8.0/generics_repo.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/bin/Debug/net8.0/generics_repo.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/refint/generics_repo.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/generics_repo.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-08-delegates-events-generics/generics_repo/obj/Debug/net8.0/ref/generics_repo.dll

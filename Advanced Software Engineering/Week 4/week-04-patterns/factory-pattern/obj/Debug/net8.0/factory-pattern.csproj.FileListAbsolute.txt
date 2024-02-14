@@ -1,0 +1,15 @@
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.AssemblyInfoInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.AssemblyInfo.cs
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.csproj.CoreCompileInputs.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.sourcelink.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/bin/Debug/net8.0/factory-pattern
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/bin/Debug/net8.0/factory-pattern.deps.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/bin/Debug/net8.0/factory-pattern.runtimeconfig.json
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/bin/Debug/net8.0/factory-pattern.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/bin/Debug/net8.0/factory-pattern.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/refint/factory-pattern.dll
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.pdb
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/factory-pattern.genruntimeconfig.cache
+/Users/dieterdepreester/Documents/Source/Howest/asi/demos-asi/week-04-patterns/factory-pattern/obj/Debug/net8.0/ref/factory-pattern.dll
